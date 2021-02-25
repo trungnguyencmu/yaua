@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Yaua react app
+          Yaua react app - new version
         </p>
         <a
           className="App-link"
